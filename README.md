@@ -5,7 +5,7 @@ Create a tables with details of students and their marks with multiple subjects
 
 ## Setup
 
-clone the repo self-onboard Restuarants to local machine,
+clone the Students_Results Restuarants to local machine,
 repo link: 
 
 
