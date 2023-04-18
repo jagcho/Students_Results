@@ -5,8 +5,8 @@ Create a tables with details of students and their marks with multiple subjects
 
 ## Setup
 
-clone the Students_Results Restuarants to local machine,
-repo link: 
+clone the Students_Results to local machine,
+repo link: https://github.com/jagcho/Students_Results.git
 
 
 
