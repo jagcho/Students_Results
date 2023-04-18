@@ -23,7 +23,7 @@ all setup has been done you just need to install npm packages with npm install c
 
 ## Deployment
 
-To run this project on post just run below commmand in terminal.
+To run this project on postman just run below commmand in terminal.
 
 ```bash
   nodemon index
@@ -34,7 +34,7 @@ To run this project on post just run below commmand in terminal.
 
 ## Demo 
 
-video walkthrough video : 
+walkthrough video : https://drive.google.com/file/d/15fkvqR7YKXT1QME_09nWusd68eLTa7ea/view?usp=share_link
 
 
 ## Documentation
